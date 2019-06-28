@@ -1,13 +1,14 @@
+set autoread
+
 filetype on
+filetype indent on
 syntax on
 colorscheme darkblue
 
-
 set number
-set lines=35 columns=150
+set lines=50 columns=150
 set colorcolumn=120
 
-filetype indent on
 set nowrap
 set tabstop=2
 set shiftwidth=2
